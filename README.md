@@ -9,10 +9,12 @@
 	<img src="https://cdn.jsdelivr.net/gh/Andy17269/FastFiles@main/code/Wen_Argon_Emoji_BiliBili_1.png" width="85%">
 </div>
 所有表情包一览（早期版本）：
+<br>
 <p>小电视</p>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/Andy17269/FastFiles@main/code/Wen_Argon_Emoji_BiliBili_2.png" width="100%">
 </div>
+<br>
 <p>2233娘</p>
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/Andy17269/FastFiles@main/code/Wen_Argon_Emoji_BiliBili_3.png" width="100%">

@@ -20,5 +20,5 @@
 	<img src="https://cdn.jsdelivr.net/gh/Andy17269/FastFiles@main/code/Wen_Argon_Emoji_BiliBili_3.png" width="100%">
 </div>
 # 关于
-<strong>注意！</strong>本表情包图片版权归<strong>上海宽娱数码科技有限公司</strong>所有。如有侵权，请联系我，我将第一时间下架！
-BiliBili干杯🍺！
+<p><strong>注意！</strong>本表情包图片版权归<strong>上海宽娱数码科技有限公司</strong>所有。如有侵权，请联系我，我将第一时间下架！</p>
+<p>BiliBili干杯🍺！</p>

@@ -1,3 +1,5 @@
 # WenArgonEmoji-BiliBili
-![Logo](https://cdn.jsdelivr.net/gh/Andy17269/FastFiles@main/code/WenArgonEmoji.png "Logo")
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/Andy17269/FastFiles@main/code/WenArgonEmoji.png" width="50%">
+</div>
 适用Argon主题的一套BiliBili表情

@@ -3,8 +3,8 @@
  * Plugin Name: Wen Argon Emoji BiliBili
  * Text Domain: WenArgonEmojiBiliBili
  * Domain Path: /languages
- * Description: Argon 主题的"BiliBili"表情包,注意！Argon主题的表情插件只能同时启用一个！
- * Version:     1.51
+ * Description: Argon 主题的"BiliBili"表情包
+ * Version:     1.92
  * Author:      干净T松鼠
  * Author URI:  https://wenlei.club/
  * License:     GPLv3+
@@ -15,8 +15,8 @@
         array_push(
             $emotionList,
             array(
-                'groupname' => 'BiliBili', 
-				'description' => 'Github:https://github.com/Andy17269/WenArgonEmoji-BiliBili', 
+                'groupname' => '哔哩哔哩', 
+				'description' => 'Github：https://github.com/Andy17269/WenArgonEmoji-BiliBili', 
                 'list' => array(
 					array('type' => 'sticker', 'code' => '2233-baodachu', 'src' => $assets_dir . '233yumen.png'),
 					array('type' => 'sticker', 'code' => '2233-cahan', 'src' => $assets_dir . '233yiwen.png'),
@@ -82,6 +82,30 @@
 			    	array('type' => 'sticker', 'code' => 'tv-chan', 'src' => $assets_dir . 'chan.png'),
 			    	array('type' => 'sticker', 'code' => 'tv-bizui', 'src' => $assets_dir . 'bizui.png'),
 			    	array('type' => 'sticker', 'code' => 'tv-baiyan', 'src' => $assets_dir . 'baiyan.png'),
+                    //Bata Open
+			    	array('type' => 'sticker', 'code' => 'xhr-yinxian', 'src' => $assets_dir . '/smallyellowpeople/yinxian.png'),
+			    	array('type' => 'sticker', 'code' => 'xhr-xusheng', 'src' => $assets_dir . '/smallyellowpeople/xusheng.png'),
+			    	array('type' => 'sticker', 'code' => 'xhr-sijierli', 'src' => $assets_dir . '/smallyellowpeople/xijierli.png'),
+                    array('type' => 'sticker', 'code' => 'xhr-xiaoku', 'src' => $assets_dir . '/smallyellowpeople/xiaoku.png'),
+				    array('type' => 'sticker', 'code' => 'xhr-xianqi', 'src' => $assets_dir . '/smallyellowpeople/xianqi.png'),
+				    array('type' => 'sticker', 'code' => 'xhr-xianqi', 'src' => $assets_dir . '/smallyellowpeople/xianqi.png'),
+				    array('type' => 'sticker', 'code' => 'xhr-xiangzhi', 'src' => $assets_dir . '/smallyellowpeople/xiangzhi.png'),
+				    array('type' => 'sticker', 'code' => 'xhr-xia', 'src' =>$assets_dir .  '/smallyellowpeople/xia.png'),
+				    array('type' => 'sticker', 'code' => 'xhr-wuyu', 'src' => $assets_dir . '/smallyellowpeople/wuyu.png'),
+				    array('type' => 'sticker', 'code' => 'xhr-wulian', 'src' => $assets_dir . '/smallyellowpeople/wulian.png'),
+				    array('type' => 'sticker', 'code' => 'xhr-weixiao', 'src' =>$assets_dir .  '/smallyellowpeople/weixiao.png'),
+				    array('type' => 'sticker', 'code' => 'xhr-weiqu', 'src' => $assets_dir . '/smallyellowpeople/weiqu.png'),
+				    array('type' => 'sticker', 'code' => 'xhr-tu', 'src' => $assets_dir . '/smallyellowpeople/tu.png'),
+			    	array('type' => 'sticker', 'code' => 'xhr-touxiao', 'src' => $assets_dir . '/smallyellowpeople/touxiao.png'),
+			    	array('type' => 'sticker', 'code' => 'xhr-tiaopi', 'src' => $assets_dir . '/smallyellowpeople/tiaopi.png'),
+			    	array('type' => 'sticker', 'code' => 'xhr-teng', 'src' => $assets_dir . '/smallyellowpeople/teng.png'),
+			    	array('type' => 'sticker', 'code' => 'xhr-suanle', 'src' => $assets_dir . '/smallyellowpeople/suanle.png'),
+			    	array('type' => 'sticker', 'code' => 'xhr-shengqi', 'src' => $assets_dir . '/smallyellowpeople/shengqi.png'),
+			    	array('type' => 'sticker', 'code' => 'xhr-shengbing', 'src' => $assets_dir . '/smallyellowpeople/shengbing.png'),
+			    	array('type' => 'sticker', 'code' => 'xhr-sajiao', 'src' => $assets_dir . '/smallyellowpeople/sajiao.png'),
+			    	array('type' => 'sticker', 'code' => 'xhr-miaoya', 'src' => $assets_dir . '/smallyellowpeople/miaoya.png'),
+			    	array('type' => 'sticker', 'code' => 'xhr-leng', 'src' => $assets_dir . '/smallyellowpeople/leng.png'),
+					//Bata Close
                 )
             )
         );
@@ -95,7 +119,7 @@ function dashboard_submenu() {
 }
 function add_dashboard_submenu() {
   echo '<div><p><h1><strong>Wen Argon Emoji-BiliBili</strong></h1></p></div>';
-  echo '<div><p>版本1.51&nbsp;&nbsp;&nbsp;<a href="http://wenlei.club/index.php/wen-argon-emoji/">检查更新</a></p></div>';
+  echo '<div><p>版本1.92&nbsp;&nbsp;&nbsp;<a href="http://wenlei.club/index.php/wen-argon-emoji/">检查更新</a></p></div>';
   echo '<div><p><a href="https://wenlei.club">作者博客</a>&nbsp;&nbsp;<a href="https://space.bilibili.com/1272602094">B站</a></p></div>';
   echo '<div><p>支持我的开发，就到<a href="https://github.com/Andy17269/WenArgonEmoji-BiliBili">Github</a>里点颗Star⭐吧！</p></div>';
 }

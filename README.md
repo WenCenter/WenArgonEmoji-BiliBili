@@ -1,4 +1,5 @@
 # WenArgonEmoji-BiliBili
+2022年8月3日更新：即将推出Cloud版本
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/Andy17269/FastFiles@main/code/WenArgonEmoji.png" width="30%">
 </div>

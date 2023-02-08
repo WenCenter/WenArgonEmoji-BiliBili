@@ -1,5 +1,5 @@
 # WenArgonEmoji-BiliBili
-2023年2月8日更新：<s>即将推出Cloud版本，此版将表情包文件迁移至云端，敬请期待！</s>Bilibili版本已停止更新，该项目已暂时存档。
+2023年2月8日更新：BiliBili版本已停止更新，该项目已暂时存档。但此项目仍然可在最新Wordpress版本中正常使用（6.1.1）。
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/Andy17269/FastFiles@main/code/WenArgonEmoji.png" width="30%">
 </div>

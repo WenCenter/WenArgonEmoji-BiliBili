@@ -1,5 +1,5 @@
 # WenArgonEmoji-BiliBili
-2022年8月3日更新：即将推出Cloud版本，此版将表情包文件迁移至云端，敬请期待！
+2023年2月8日更新：<s>即将推出Cloud版本，此版将表情包文件迁移至云端，敬请期待！</s>暂时搁置
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/Andy17269/FastFiles@main/code/WenArgonEmoji.png" width="30%">
 </div>

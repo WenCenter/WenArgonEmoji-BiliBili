@@ -1,5 +1,5 @@
 # WenArgonEmoji-BiliBili
-2023年2月8日更新：BiliBili版本已停止更新，该项目已暂时存档。但此项目仍然可在最新Wordpress版本中正常使用（6.1.1）。
+2023年6月16日更新：本仓库不再更新，但我们推出了新版Emoji库，其中涵盖了本插件欧~~ https://github.com/Andy17269/argon-theme-emoji
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/Andy17269/FastFiles@main/code/WenArgonEmoji.png" width="30%">
 </div>
